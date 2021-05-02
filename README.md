@@ -1,2 +1,0 @@
-# -
-simpol typography
